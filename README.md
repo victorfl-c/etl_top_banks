@@ -89,6 +89,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 Em caso de dúvidas ou feedback, entre em contato via LinkedIn ou e-mail.
 
 ---
-
-🔗 **Repositório no GitHub**: [Clique Aqui](https://github.com/victorfl-c/etl_top_banks)
 🚀 Feliz codificação!
